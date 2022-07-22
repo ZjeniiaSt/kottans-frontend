@@ -22,4 +22,7 @@ git status                    staging area/index
 git add <files>
 git add .
 git commit -m 'message'
+git log                      history
+git checkout <commit hash>
+git checkout <branch name>
 ```
