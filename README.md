@@ -2,4 +2,10 @@
 
 ## Git and GitBash
 
-### Basic commands
+**for Terminal**
+```
+```
+
+**Basic commands**
+```
+```
