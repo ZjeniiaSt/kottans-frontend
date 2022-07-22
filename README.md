@@ -17,7 +17,9 @@ ls -la                         show hidden list
 **Basic commands**
 ```
 git init
+git status                    staging area/index
 
+git add <files>
 git add .
-git commit
+git commit -m 'message'
 ```
