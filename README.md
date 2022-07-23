@@ -17,12 +17,15 @@ ls -la                         show hidden list
 **Basic commands**
 ```
 git init
-git status                    staging area/index
+git status                              staging area/index
 
 git add <files>
 git add .
 git commit -m 'message'
-git log                      history
+git log                                 history
 git checkout <commit hash>
-git checkout <branch name>
+git checkout -b <branch name>
+git branch                             branchs list
+git branch -m <new branch name>        rename CURRENT branch
+git branch -d <branch name>            delete branch NOT CURRENT
 ```
