@@ -30,5 +30,6 @@ git branch                             branchs list
 git branch -m <new branch name>        rename CURRENT branch
 git branch -d <branch name>            delete branch NOT CURRENT
 
+git merge <feature branch name>
 
 ```
