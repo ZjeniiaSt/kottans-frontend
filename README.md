@@ -38,6 +38,16 @@ git branch -d <branch name>            delete branch NOT CURRENT
 ```
 git merge <feature branch name>
 git rebase main
+
+git checkout <branch>^                 to previosly commit
+git checkout HEAD~N                    to N commit
+git branch -f main HEAD~3
+
+git reset HEAD~1                       for local
+git revert HEAD                        for published
+
+git cherry-pick <Com1> <Com2>...
+git rebase -i <branch>
 ```
 
 
