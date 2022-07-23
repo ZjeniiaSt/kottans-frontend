@@ -44,5 +44,7 @@ git push
 git clone <url>
 
 git remote add origin <url>          connect - repo
-git push -u origin <branch>          connect - branch
+git push -u origin <branch>          first connect - branch
+
+git remone -v                        check connect
 ```
