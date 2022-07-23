@@ -39,4 +39,6 @@ git pull
 git push
 
 git clone <url>
+git remote add origin <url>          connect to repo
+git push -u origin <branch>          connect fot branch
 ```
