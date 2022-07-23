@@ -23,9 +23,12 @@ git add <files>
 git add .
 git commit -m 'message'
 git log                                 history
+
 git checkout <commit hash>
 git checkout -b <branch name>
 git branch                             branchs list
 git branch -m <new branch name>        rename CURRENT branch
 git branch -d <branch name>            delete branch NOT CURRENT
+
+
 ```
