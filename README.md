@@ -1,4 +1,4 @@
-# kottans-frontend
+**[Git and Gitbash](https://github.com/ZjeniiaSt/kottans-frontend/blob/main/README.md#git-and-gitbash)**
 
 ## Git and GitBash
 
