@@ -34,11 +34,15 @@ git branch -m <new branch name>        rename CURRENT branch
 git branch -d <branch name>            delete branch NOT CURRENT
 
 git merge <feature branch name>
+```
 
+**Connection with a repo**
+```
 git pull
 git push
 
 git clone <url>
-git remote add origin <url>          connect to repo
-git push -u origin <branch>          connect fot branch
+
+git remote add origin <url>          connect - repo
+git push -u origin <branch>          connect - branch
 ```
