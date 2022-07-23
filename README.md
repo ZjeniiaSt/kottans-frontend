@@ -48,6 +48,8 @@ git revert HEAD                        for published
 
 git cherry-pick <Com1> <Com2>...
 git rebase -i <branch>
+
+git commit --amend                     chande last commit
 ```
 
 
@@ -61,5 +63,5 @@ git clone <url>
 git remote add origin <url>          connect - repo
 git push -u origin <branch>          first connect - branch
 
-git remone                           check connect
+git remove                           check connect
 ```
