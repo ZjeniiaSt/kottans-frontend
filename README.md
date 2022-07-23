@@ -32,9 +32,14 @@ git branch -b                          branch list all repo
 
 git branch -m <new branch name>        rename CURRENT branch
 git branch -d <branch name>            delete branch NOT CURRENT
-
-git merge <feature branch name>
 ```
+
+**Working with branches**
+```
+git merge <feature branch name>
+git rebase main
+```
+
 
 **Connection with a repo**
 ```
