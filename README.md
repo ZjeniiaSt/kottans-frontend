@@ -26,10 +26,17 @@ git log                                 history
 
 git checkout <commit hash>
 git checkout -b <branch name>
+
 git branch                             branchs list
+git branch -b                          branch list all repo
+
 git branch -m <new branch name>        rename CURRENT branch
 git branch -d <branch name>            delete branch NOT CURRENT
 
 git merge <feature branch name>
 
+git pull
+git push
+
+git clone <url>
 ```
