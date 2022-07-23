@@ -55,6 +55,7 @@ git commit --amend                     change last commit
 
 **Connection with a repo**
 ```
+git fetch
 git pull
 git push
 
@@ -62,8 +63,6 @@ git clone <url>
 
 git remote add origin <url>          connect - repo
 git push -u origin <branch>          first connect - branch
-
-git fetch
 
 git remove                           check connect
 ```
