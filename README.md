@@ -56,8 +56,12 @@ git commit --amend                     change last commit
 **Connection with a repo**
 ```
 git fetch
+git merge 
+
 git pull
 git push
+
+git pull --rebase
 
 git clone <url>
 
