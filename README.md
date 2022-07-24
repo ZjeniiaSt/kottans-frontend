@@ -9,6 +9,7 @@
 cd ~/Desktop                   to folder
 mkdir my-project               create folder
 echo 'Some text' > file.txt    create file
+mv                             move/rename
 cat file.txt                   read file
 rm file.txt                    delete file
 ls                             show files list
