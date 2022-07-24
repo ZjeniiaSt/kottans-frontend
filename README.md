@@ -1,5 +1,6 @@
 **[Git and Gitbash](https://github.com/ZjeniiaSt/kottans-frontend/blob/main/README.md#git-and-gitbash)**
-**[Linux CLI, and HTTP]()
+
+**[Linux CLI, and HTTP](https://github.com/ZjeniiaSt/kottans-frontend/blob/main/README.md#linux-cli-and-http)**
 
 ## Git and GitBash
 
