@@ -66,6 +66,10 @@ git remove                           check connect
 
 **for Terminal**
 ```
+~                              home directory
+.                              current directory
+>                              send to a new file
+
 cd ~/Desktop                   to folder
 mkdir my-project               create folder
 echo 'Some text' > file.txt    create file
@@ -80,6 +84,14 @@ groups                         show my group
 *                              wildcart - all files
 0                              
 
+man                            view manual pages
+find                           locate files
+finger                         show user information
+
+
+lpr                            send to printer
+lpq                            display print queue
+lprm                           remove from print queue
 ```
 
 **HTTP** - Hypertext Transfer Protocol (* протокол прикладного рівня для "переговорів" про доставлення Web-сервером документа Web-браузеру)
