@@ -75,6 +75,10 @@ cat file.txt                   read file
 rm file.txt                    delete file
 ls                             show files list
 ls -la                         show hidden list
+chmod                          change permissions
+groups                         show my group
+*                              wildcart - all files
+0                              
 
 ```
 
