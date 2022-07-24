@@ -72,6 +72,9 @@ git remove                           check connect
 
 cd ~/Desktop                   to folder
 mkdir my-project               create folder
+rmdir                          remove EMPTY folder
+rmdir -r                       remove folder and files 
+
 echo 'Some text' > file.txt    create file
 mv                             move/rename
 cp                             copy
@@ -92,6 +95,12 @@ finger                         show user information
 lpr                            send to printer
 lpq                            display print queue
 lprm                           remove from print queue
+
+df                             shows free disk space
+ps aux                         list of all processes
+kill                           process to die gracefully
+grep                           finds words in text
+
 ```
 
 **HTTP** - Hypertext Transfer Protocol (* протокол прикладного рівня для "переговорів" про доставлення Web-сервером документа Web-браузеру)
