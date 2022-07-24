@@ -1,4 +1,5 @@
 **[Git and Gitbash](https://github.com/ZjeniiaSt/kottans-frontend/blob/main/README.md#git-and-gitbash)**
+**[Linux CLI, and HTTP]()
 
 ## Git and GitBash
 
@@ -70,3 +71,5 @@ git push -u origin <branch>          first connect - branch
 
 git remove                           check connect
 ```
+
+## Linux CLI, and HTTP
