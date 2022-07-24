@@ -4,19 +4,6 @@
 
 ## Git and GitBash
 
-**for Terminal**
-```
-cd ~/Desktop                   to folder
-mkdir my-project               create folder
-echo 'Some text' > file.txt    create file
-mv                             move/rename
-cat file.txt                   read file
-rm file.txt                    delete file
-ls                             show files list
-ls -la                         show hidden list
-
-```
-
 **Basic commands**
 ```
 git init
@@ -76,6 +63,19 @@ git remove                           check connect
 
 
 ## Linux CLI, and HTTP
+
+**for Terminal**
+```
+cd ~/Desktop                   to folder
+mkdir my-project               create folder
+echo 'Some text' > file.txt    create file
+mv                             move/rename
+cat file.txt                   read file
+rm file.txt                    delete file
+ls                             show files list
+ls -la                         show hidden list
+
+```
 
 **HTTP** - Hypertext Transfer Protocol (* протокол прикладного рівня для "переговорів" про доставлення Web-сервером документа Web-браузеру)
 
