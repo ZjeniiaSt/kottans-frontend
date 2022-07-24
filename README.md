@@ -75,7 +75,8 @@ git remove                           check connect
 
 
 ## Linux CLI, and HTTP
-```
-HTTP - Hypertext Transfer Protocol (* протокол прикладного рівня для "переговорів" про доставлення Web-сервером документа Web-браузеру)
-URL-адрес (* Uniform Resource Locator – уніфікований покажчик [місцезнаходження інформаційного] ресурсу)
-```
+
+**HTTP** - Hypertext Transfer Protocol (* протокол прикладного рівня для "переговорів" про доставлення Web-сервером документа Web-браузеру)
+
+**URL-адрес** - (Uniform Resource Locator – уніфікований покажчик [місцезнаходження інформаційного] ресурсу)
+
