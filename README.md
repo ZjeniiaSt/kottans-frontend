@@ -160,5 +160,8 @@ DELETE: для видалення існуючого ресурсу.
 Element with class selector     selector.class
 Child (direct) selector         selector > selector
 Descendent selectot             selector selector
-
+```
+**Cascade**
+```
+style=''  ''              ID                       class, pseudoclass, attribute,                       # of Elements
 ```
