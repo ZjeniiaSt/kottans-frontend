@@ -154,3 +154,11 @@ DELETE: для видалення існуючого ресурсу.
 ## HTML and CSS
 
 **[Validator](https://validator.w3.org/)**
+
+**Combining selectors**
+```
+Element with class selector     selector.class
+Child (direct) selector         selector > selector
+Descendent selectot             selector selector
+
+```
