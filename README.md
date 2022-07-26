@@ -153,4 +153,4 @@ DELETE: для видалення існуючого ресурсу.
 
 ## HTML and CSS
 
-** [Validator](https://validator.w3.org/)**
+**[Validator](https://validator.w3.org/)**
