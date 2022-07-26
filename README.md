@@ -2,6 +2,8 @@
 
 **[Linux CLI, and HTTP](https://github.com/ZjeniiaSt/kottans-frontend/blob/main/README.md#linux-cli-and-http)**
 
+**[HTML and CSS]()
+
 ## Git and GitBash
 
 **Basic commands**
@@ -148,3 +150,5 @@ DELETE: для видалення існуючого ресурсу.
 501 Not Implemented (* Не реалізовано).
 503 Service Unavailable (* Сервіс недоступний).
 ```
+
+## HTML and CSS
