@@ -2,7 +2,7 @@
 
 **[Linux CLI, and HTTP](https://github.com/ZjeniiaSt/kottans-frontend/blob/main/README.md#linux-cli-and-http)**
 
-**[HTML and CSS]()
+**[HTML and CSS](https://github.com/ZjeniiaSt/kottans-frontend/blob/main/README.md#html-and-css)**
 
 ## Git and GitBash
 
