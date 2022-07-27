@@ -176,3 +176,11 @@ img {
   display: block;
 }                              
 ```
+
+**Flexbox**
+```
+.items {
+  display: flex;
+  justify-content: space-between;
+}
+```
