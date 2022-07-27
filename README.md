@@ -169,3 +169,10 @@ style=''  ''              ID                       class, pseudoclass, attribute
 ```
 
 ## Responsive Web Design
+
+```
+img {
+  max-width: 100%;                         avoid scroll
+  display: block;
+}                              
+```
