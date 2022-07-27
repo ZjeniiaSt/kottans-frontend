@@ -4,7 +4,7 @@
 
 **[HTML and CSS](https://github.com/ZjeniiaSt/kottans-frontend/blob/main/README.md#html-and-css)**
 
-**[Responsive Web Design]()**
+**[Responsive Web Design](https://github.com/ZjeniiaSt/kottans-frontend/blob/main/README.md#responsive-web-design)**
 
 ## Git and GitBash
 
