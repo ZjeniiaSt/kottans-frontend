@@ -170,9 +170,10 @@ style=''  ''              ID                       class, pseudoclass, attribute
 
 ## Responsive Web Design
 
+**Avoid scroll**
 ```
 img {
-  max-width: 100%;                         avoid scroll
+  max-width: 100%;                         
   display: block;
 }                              
 ```
