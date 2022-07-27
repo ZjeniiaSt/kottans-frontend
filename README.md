@@ -4,6 +4,8 @@
 
 **[HTML and CSS](https://github.com/ZjeniiaSt/kottans-frontend/blob/main/README.md#html-and-css)**
 
+**[Responsive Web Design]()**
+
 ## Git and GitBash
 
 **Basic commands**
@@ -165,3 +167,5 @@ Descendent selectot             selector selector
 ```
 style=''  ''              ID                       class, pseudoclass, attribute,                       # of Elements
 ```
+
+## Responsive Web Design
