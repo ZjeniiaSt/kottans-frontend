@@ -185,3 +185,19 @@ img {
   justify-content: space-between;
 }
 ```
+**Grid**
+```
+.container {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+}
+```
+
+**Multicol**
+```
+.container {
+  column-count: 3;
+  OR
+  column-width: 200px;
+}
+```
