@@ -6,6 +6,8 @@
 
 **[Responsive Web Design](https://github.com/ZjeniiaSt/kottans-frontend/blob/main/README.md#responsive-web-design)**
 
+**[## JS Basics]
+
 ## Git and GitBash
 
 **Basic commands**
@@ -201,3 +203,5 @@ img {
   column-width: 200px;
 }
 ```
+
+## JS Basics
