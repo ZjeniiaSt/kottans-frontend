@@ -205,7 +205,7 @@ img {
 ```
 
 ## JS Basics
-`` 
+```
 It was something terrible
 
 ```
